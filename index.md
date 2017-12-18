@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/zulmac/chagas_symposium_2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
+![Bug](/img/t_sanguisuga.jpg)
+
 **Imperial College London**
 **Princeton University**
 **Pan-American Health Organization**
