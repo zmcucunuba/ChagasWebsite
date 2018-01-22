@@ -19,7 +19,7 @@
 
 **Venue:** Imperial College London, South Kensington Campus
 
-**Organisers:** 
+**Organising Committee** 
 
 |Name       |Organisation|
 |-----------|------------|
