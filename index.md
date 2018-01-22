@@ -4,7 +4,7 @@
   <b>“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?"</b>
 </h1>
 
-
+![IMG](/img/Chagas.png)
 
 **Currently accepting abstracts and participants for the event**
  
