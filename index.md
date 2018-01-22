@@ -1,34 +1,44 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zulmac/chagas_symposium_2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-
 ![Bug](/img/t_sanguisuga.jpg)
 
 **Imperial College London**
+
 **Princeton University**
+
 **Pan-American Health Organization**
 
-### Symposium
+## Symposium
 
-**“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?**
+<p align="center">
+  
+<b>“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?"</b>
+</p>
 
-Feb 14th–16th, 2018
-Imperial College London, South Kensington Campus (Prince's Gardens, 58 and 170 Prince’s Gate)
+**Date:** Feb 14th–16th, 2018
 
-Chagas disease remains as a major cause of heart disease morbidity and mortality in Latin American countries. In the last three decades, most endemic countries have made great strides towards the control of Chagas disease by implementing mainly vector and blood transfusion control. However, the impact of such interventions has, by and large, not been rigorously quantified, and questions remain as how to address old and new challenges as countries progress towards the goals proposed by the World Health Organization (WHO) in the horizon 2020 and beyond. These goals are aimed to achieve interruption of intra-domiciliary (vectorial) transmission in all endemic countries and to have all infected/ill patients under care. However, estimates of the current status of intra-domiciliary transmission and burden of disease in endemic countries remain poorly documented, making it difficult to ascertain progress, identify areas that need strengthening, and make programmatic decisions about deploying the most cost-effective interventions.
+**Venue:** Imperial College London, South Kensington Campus
 
-The Department of Infectious Disease Epidemiology at Imperial College London in collaboration with the Pan American Health Organization (PAHO), Princeton University, and the Neglected Tropical Disease Modelling Consortium is convening a symposium and workshop to define overarching challenges and research priorities, explore opportunities, develop collaborations, and build strategies towards a research agenda for rigorous mathematical modelling to help measure and inform progress on control and elimination of Chagas disease in Latin America.
+Chagas disease remains as a major cause of heart disease morbidity and mortality in Latin American countries. In the last three decades, most endemic countries have made great strides towards the control of Chagas disease by implementing mainly vector and blood transfusion control. However, the impact of such interventions has, by and large, not been rigorously quantified, and questions remain as how to address old and new challenges as countries progress towards the goals proposed by the World Health Organization (WHO) in the horizon 2020 and beyond. These goals aim to achieve interruption of intra-domiciliary (vectorial) transmission in all endemic countries and to have all infected/ill patients under care. However, estimates of the current status of intra-domiciliary transmission and burden of disease in endemic countries remain poorly documented, making it difficult to ascertain progress, identify areas that need strengthening, and make programmatic decisions about deploying the most cost-effective interventions.
 
-Specifically, discussions will be centred around the theme of how can transmission dynamics and statistical models help to highlight country programmes priorities and measure the progress made, and how can endemic countries help to inform the models and make best use of them to plan and deploy country-specific and cost-effective interventions.
+The Department of Infectious Disease Epidemiology at Imperial College London in collaboration with Princeton University and the Pan American Health Organization (PAHO) is convening a symposium funded by the Neglected Tropical Disease Modelling Consortium to define overarching challenges and research priorities, explore opportunities, develop collaborations, and build strategies towards a research agenda for rigorous mathematical modelling to help measure and inform progress on control and elimination of Chagas disease in Latin America.
 
-The meeting will bring together representatives of international organizations, scientific researchers, programme managers, non-government and non-profit organizations, industry partners, government representatives, and community stakeholders to identify and articulate opportunities for long-term, highly impactful and country-relevant collaborative research.
+Specifically, discussions will be centred around the theme of how can mathematical models help to highlight country programme priorities and measure the progress made, and how can endemic countries help to inform the models and make best use of them to plan, deploy and evaluate country-specific and cost-effective interventions.
 
-**Day 1** (14th February): Afternoon: Closed meeting PAHO–Imperial College London–Princeton University
+The meeting will bring together representatives of international organizations, scientific researchers, programme managers, non-government and non-profit organizations, industry partners, government representatives, and community stakeholders to identify and articulate opportunities for long-term, impactful, and country-relevant collaborative research.
 
-**Day 2** (15th February): Invited talks (and posters) on the epidemiological and control status of Chagas disease in Latin America, identified gaps and the role of mathematical modelling in bridging these gaps
+|Time                      | event
+|:------------------------:|:-----------------------------------------------------------------------------
+|**Day 1** (14th February) | Afternoon: Closed meeting PAHO–Imperial College London–Princeton University
+|**Day 2** (15th February) | Invited talks on the epidemiological situation and control status of Chagas disease in Latin America, with the aim of identifying pressing gaps and discussing the role of mathematical modelling in bridging these gaps
+|**Day 3** (16th February) | Workshop (breakout sessions) and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
 
-**Day 3** (16th February): Workshop (breakout sessions) and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
+
+<h2 align="center">
+  <b>Detailed programme</b>
+</h2>
+
+
 
 
 # Header 1
