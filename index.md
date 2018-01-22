@@ -1,22 +1,25 @@
-## Welcome to GitHub Pages
-
-![Bug](/img/t_sanguisuga.jpg)
-
-**Imperial College London**
-
-**Princeton University**
-
-**Pan-American Health Organization**
-
 ## Symposium
 
-<p align="center">
+<h1 align="center">
   <b>“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?"</b>
-</p>
+</h1>
+
+
+
+**Currently accepting abstracts for the event**
+ 
+**Deadline: 29th of January 2018.**
+
+**Email abstracts to: dp3116@imperial.ac.uk**
+
+***
+***
 
 **Date:** Feb 14th–16th, 2018
 
 **Venue:** Imperial College London, South Kensington Campus
+
+**Organizers:** Imperial College London , Princeton University , Pan-American Health Organization
 
 Chagas disease remains as a major cause of heart disease morbidity and mortality in Latin American countries. In the last three decades, most endemic countries have made great strides towards the control of Chagas disease by implementing mainly vector and blood transfusion control. However, the impact of such interventions has, by and large, not been rigorously quantified, and questions remain as how to address old and new challenges as countries progress towards the goals proposed by the World Health Organization (WHO) in the horizon 2020 and beyond. These goals aim to achieve interruption of intra-domiciliary (vectorial) transmission in all endemic countries and to have all infected/ill patients under care. However, estimates of the current status of intra-domiciliary transmission and burden of disease in endemic countries remain poorly documented, making it difficult to ascertain progress, identify areas that need strengthening, and make programmatic decisions about deploying the most cost-effective interventions.
 
