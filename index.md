@@ -73,6 +73,7 @@ The meeting will bring together representatives of international organizations, 
 |Closure Talk: From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London) | 16:30 – 17:00 |
 |Presentation on the structure, logistics and objectives of Day 3 | Dr Pierre Nouvellet & Prof Maria-Gloria Basáñez | 16:30 – 17:00 | 
 |Reception/Drinks/Canapés Dinner/Networking | plenary | 16:30 – 17:00 |
+
 ***
 
 **Day 3 (16 February)** Workshop (breakout sessions)
