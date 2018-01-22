@@ -56,7 +56,7 @@ The meeting will bring together representatives of international organizations, 
 
 |Topics/Talks          | Confirmed Speakers|
 |----------------------|-------------------|
-|The situation of control programmes in endemic countries and an update of the results obnained | Dr Luis Gerardo Castellanos (PAHO)
+|The situation of control programmes in endemic countries and an update of the results obtained | Dr Luis Gerardo Castellanos (PAHO)
 |Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)
 |Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)
 |Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain)
@@ -165,12 +165,11 @@ Closure of meeting and future directions
 
 For any enquire about the event, please email:
 
-Zulma M. Cucunubá MD, PhD | 
-Post-doctoral Fellow |
+Dr Zulma M. Cucunubá
 
-Department of Infectious Disease Epidemiology  | Faculty of Medicine (St Mary's campus) 
+Department of Infectious Disease Epidemiology
 
-Imperial College London  | Norfolk Place, London W2 1PG, UK
+Imperial College London  
 
 zulma.cucunuba@imperial.ac.uk
 
