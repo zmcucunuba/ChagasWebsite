@@ -11,8 +11,7 @@
 ## Symposium
 
 <p align="center">
-  
-<b>“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?"</b>
+  <b>“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?"</b>
 </p>
 
 **Date:** Feb 14th–16th, 2018
@@ -38,30 +37,38 @@ The meeting will bring together representatives of international organizations, 
   <b>Detailed programme</b>
 </h2>
 
+**Venue**:Imperial College London, South Kensington Campus (58 Prince's Gardens and 170 Queen’s Gate)
 
+**Day 2 (15 February)** – Research Talks
 
+|Topics/Talks          | Potential Speakers|
+|----------------------|-------------------|
+|The situation of certification programmes in Latin America and current disease burden estimates|Dr Luis Gerardo Castellanos (PAHO)
+|Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)
+|Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)
+|Title to be proposed by speaker | Prof María Dolores Bargues (Spain)
+|Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil)
+|Interventions and models in urban settings | Prof Micheal Levy (USA–Peru) 
+|Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil)
+|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Dr Mauricio Vera (Colombia) 
+|Experiences from the field III: how field trials can inform key aspects of Chagas disease modelling | Dr Orin Courtenay (Warwick)
+|Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia)
+|Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Jorge Sosa Estani (DNDi)
+|Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London)
+|From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London)
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+**Day 3 (16 February)** Workshop (breakout sessions)
 
-1. Numbered
-2. List
+Workshop and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
 
-**Bold** and _Italic_ and `Code` text
+Potential breakout sessions (according to number of participants attending day 3 and topics chosen). Invitees will be offered the option of signing up for preferred break-out sessions but also given the possibility of contributing to more than one session. The aim of the sessions is to discuss in working (brainstorming) groups and report to a plenary (p.m.) on the question of “Identifying research gaps and highlighting the role of mathematical modelling” in the areas of:
 
-[Link](url) and ![Image](src)
+* **Vector ecology, transmission and control** (including domestic and sylvatic vectors) and potential synergies with other interventions (which, where and when)
+*	**Diagnostics**, innovative and current assays, measuring seroconversion/seroreversion, impact of and access to interventions, from individual diagnosis to epidemiological surveillance, diagnostics as interventions
+* **Treatment and other interventions**, innovative and current tools (including therapies and potential vaccines), role of cure rates/parasitological clearance on transmission/disease progression, potential synergies with other interventions (who, which, where, when), development of clinical trial simulators
+* **Estimation of disease burden**, inclusion of cardiac and digestive sequelae, cost-effectiveness evaluations, is there a role for mathematical modelling to help inform and/or update WHO/PAHO guidelines for Chagas disease?
 
+The conclusions of the breakout sessions that will take place in the morning will be reported in a Plenary to take place after lunch and will serve the basis for a section on identification of gaps and delineation of a research agenda for the Meeting Report paper. It is envisaged that this paper will be multi-authored by the symposium participants and will serve as a platform to establish and strengthen collaborative research.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zulmac/chagas_symposium_2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
