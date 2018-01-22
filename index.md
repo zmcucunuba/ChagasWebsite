@@ -86,6 +86,81 @@ Potential breakout sessions (according to number of participants attending day 3
 The conclusions of the breakout sessions that will take place in the morning will be reported in a Plenary to take place after lunch and will serve the basis for a section on identification of gaps and delineation of a research agenda for the Meeting Report paper. It is envisaged that this paper will be multi-authored by the symposium participants and will serve as a platform to establish and strengthen collaborative research.
 
 ***
+<h2 align="center">
+Breakout sessions
+</h2>
+
+**Plenary 1: 9:00 – 10:00 am**
+
+Landscape funding for further Chagas disease work: This will start with a small presentation about possible funding sources (e.g. Wellcome Trust Collaborative Award) followed by an open dialogue among all participants to discuss ideas for funding.
+
+**Breakout sessions: 10:00 am – 2:00 pm (with coffee/tea break and lunch provided)**
+
+The participants will form working groups to discuss, for each specific topic, the following points:
+
+   1.	A brief summary of what is known, state-of-the-art knowledge on the subject and whether and how should this current knowledge be incorporated into mathematical models and why this would be important (which specific questions would be addressed with models)  
+   
+   2.	Identification of research/programmatic gaps that need to be bridged and whether and how should this information be incorporated into mathematical models and why this would be important (which specific questions would be addressed with models with data that still need to be collated or collected)  
+   
+   3.	Identification of existing data sources that have been under-explored or under-exploited and that would need to be collated, curated and shared to bridge gaps identified in (2). Identification of field biologists, epidemiologists, practitioners, programme managers, etc. with whom it would be necessary to formulate and agree Memoranda of Understanding  
+   
+   4.	Identification of data that would need to be collected de novo to address gaps identified in (2), where (particular countries, settings, distinct epidemiologies/vectors, etc.), when (seasonal factors, timing of collection, etc.), with whom (collaborators and stakeholders to be identified, etc.) and how to proceed 
+   
+Each breakout group would have a rapporteur who will synthesize the views and conclusions of the group and will report these to a Plenary 2 session in the form of a Power Point presentation summarising the group’s recommendations for a basic/operational research agenda to improve knowledge and control of Chagas disease through enhancing collaboration.
+
+**Suggested breakout working groups:**
+
+**Vector ecology, transmission, control and other interventions:**
+
+   Prof María Dolores Bargues  
+   Dr Fernando Abad-Franch  
+   Dr Sébastien Gourbière  
+   Dr Orin Courtenay  
+   Dr Renato Vieira Alves  
+   Dr Mauricio Vera  
+   Prof María Gloria Basáñez (Rapporteur)
+   
+
+**Diagnostics & Treatment:**
+
+   Prof Michael Levy  
+   Dr Juan Carlos Villar  
+   Dr Sergio Sosa Estani  
+   Prof Déirdre Hollingsworth  
+   Prof Andy Dobson  
+   Dr Julia Halder (Rapporteur)  
+
+
+**Disease burden and economic evaluations:**
+
+   Dr Luis Gerardo Castellanos  
+   Dr Sarah Bartsch?  
+   Dr Pierre Nouvellet  
+   Dr Elisa Sicuri  
+   Dr Zulma M. Cucunubá  
+   Mr Denys Prociuk (Rapporteur)  
+   
+
+**Plenary 2: 2:00 – 3:00 pm**
+
+All working groups report in the plenary and present the results of their deliberations
+
+**Plenary 3: 3:00 – 4:30 pm (coffee/tea break provided)**
+
+Discussion for Meeting Report:
+	Target journal  
+	Structure/sections  
+	Formation of writing groups  
+	Identification of participants leading the writing of constituent sections  
+	Group Authorship for paper (authors and details at the end of paper)  
+
+Group photo
+
+Closure of meeting and future directions
+
+
+
+***
 **Contact information**
 
 For any enquire about the event, please email:
