@@ -136,7 +136,6 @@ Each breakout group would have a rapporteur who will synthesize the views and co
 **Disease burden and economic evaluations:**
 
    Dr Luis Gerardo Castellanos  
-   Dr Sarah Bartsch?  
    Dr Pierre Nouvellet  
    Dr Elisa Sicuri  
    Dr Zulma M. Cucunubá  
