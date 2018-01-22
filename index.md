@@ -56,7 +56,7 @@ The meeting will bring together representatives of international organizations, 
 
 |Topics/Talks          | Confirmed Speakers|
 |----------------------|-------------------|
-|The situation of certification programmes in Latin America and current disease burden estimates|Dr Luis Gerardo Castellanos (PAHO)
+|The situation of control programmes in endemic countries and an update of the results obnained | Dr Luis Gerardo Castellanos (PAHO)
 |Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)
 |Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)
 |Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain)
@@ -165,17 +165,15 @@ Closure of meeting and future directions
 
 For any enquire about the event, please email:
 
-Zulma M. Cucunubá MD, PhD
+Zulma M. Cucunubá MD, PhD | 
+Post-doctoral Fellow |
 
-Post-doctoral Fellow
+Department of Infectious Disease Epidemiology  | Faculty of Medicine (St Mary's campus) 
 
-Department of Infectious Disease Epidemiology
-
-Faculty of Medicine (St Mary's campus) 
-
-Imperial College London 
-
-Norfolk Place, London W2 1PG, UK
+Imperial College London  | Norfolk Place, London W2 1PG, UK
 
 zulma.cucunuba@imperial.ac.uk
+
+
+Photo caption: Children attending Chagas sero-prevalence study in Sierra Nevada de Santa Marta, Colombia. Photo kindly shared by Dr Carlos Valencia, Colombia.
 
