@@ -44,7 +44,7 @@ The meeting will bring together representatives of international organizations, 
 
 **Day 2 (15 February)** – Research Talks
 
-|Topics/Talks          | Potential Speakers|
+|Topics/Talks          | Confirmed Speakers|
 |----------------------|-------------------|
 |The situation of certification programmes in Latin America and current disease burden estimates|Dr Luis Gerardo Castellanos (PAHO)
 |Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)
