@@ -54,21 +54,22 @@ The meeting will bring together representatives of international organizations, 
 
 **Day 2 (15 February)** – Research Talks
 
-|Topics/Talks          | Confirmed Speakers|
-|----------------------|-------------------|
-|The situation of control programmes in endemic countries and an update of the results obtained | Dr Luis Gerardo Castellanos (PAHO)
-|Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)
-|Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)
-|Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain)
-|Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil)
-|Interventions and models in urban settings | Prof Michael Levy (USA–Peru) 
-|Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil)
-|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Mr Mauricio Vera (Colombia) 
+|Topics/Talks          | Confirmed Speakers| Time Slot |
+|----------------------|-------------------| ----------|
+|Welcome and Introduction to the Symposium |Prof Maria-Gloria Basáñez & Prof Andy Dobson |8:45 – 9:00 |
+|Inaugural Talk: The situation of control programmes in endemic countries and an update of the results obtained (La situación de los programas de control en los países endémicos y los resultados por ellos obtenidos)| Dr Luis Gerardo Castellanos (PAHO) | 9:00 – 9:30 |
+|Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)| xx |
+|Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)| xx |
+|Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain) | xx |
+|Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil) | xx | 
+|Interventions and models in urban settings | Prof Michael Levy (USA–Peru) | xx |
+|Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil) | xx |
+|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Mr Mauricio Vera (Colombia) | xx |
 |Experiences from the field III: how field trials can inform key aspects of Chagas disease modelling | Dr Orin Courtenay (Warwick)
-|Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia)
-|Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Sergio Sosa Estani (DNDi)
-|Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London)
-|From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London)
+|Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia) | xx |
+|Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Sergio Sosa Estani (DNDi) | xx |
+|Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London) | 15:50 – 16:30  |
+|Closure Talk: From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London) | 16:30 – 17:00 |
 
 ***
 
