@@ -56,23 +56,27 @@ The meeting will bring together representatives of international organizations, 
 **Day 2 (15 February)** – Research Talks
 
 |Topics/Talks          | Confirmed Speakers| Time Slot |
-|----------------------|-------------------| ----------|
-|Welcome and Introduction to the Symposium |Prof Maria-Gloria Basáñez & Prof Andy Dobson |8:45 – 9:00 |
+|----------------------|-------------------|----------|
+|Morning Coffee/Tea|  | 8:00-8:45 |
+|Welcome and Introduction to the Symposium |Prof Maria-Gloria Basáñez & Prof Andy Dobson | 8:45 – 9:00 |
 |Inaugural Talk: The situation of control programmes in endemic countries and an update of the results obtained (La situación de los programas de control en los países endémicos y los resultados por ellos obtenidos)| Dr Luis Gerardo Castellanos (PAHO) | 9:00 – 9:30 |
-|Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)| xx |
-|Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)| xx |
-|Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain) | xx |
-|Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil) | xx | 
-|Interventions and models in urban settings | Prof Michael Levy (USA–Peru) | xx |
-|Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil) | xx |
-|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Mr Mauricio Vera (Colombia) | xx |
-|Experiences from the field III: how field trials can inform key aspects of Chagas disease modelling | Dr Orin Courtenay (Warwick)
-|Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia) | xx |
-|Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Sergio Sosa Estani (DNDi) | xx |
-|Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London) | 15:50 – 16:30  |
+|Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)| 9:30 - 9:50 |
+|Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)| 9:50 - 10:10 |
+|Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain) | 10:10 - 10:30 |
+|Coffee/Tea break/networking/posters |   | 10:30 - 11:30 |
+|Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil) | 11:30 - 11:50 | 
+|Interventions and models in urban settings | Prof Michael Levy (USA–Peru) | 11:50 - 12:10 |
+|Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil) | 12:10 - 12:30 |
+|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Mr Mauricio Vera (Colombia) | 12:30 - 12:50 |
+|Experiences from the field III: how field trials can inform key aspects of Chagas disease modelling | Dr Orin Courtenay (Warwick) | 12:50 - 13:10 |
+| Lunch break/networking/posters|  | 13:10 - 14:30 |
+|Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia) | 14:30 - 14:50 |
+|Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Sergio Sosa Estani (DNDi) | 14:50 - 15:10 |
+|Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London) | 15:10 – 15:30  |
+|Coffee/tea break/networking/posters|  | 15:30 - 16:30 |
 |Closure Talk: From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London) | 16:30 – 17:00 |
-|Presentation on the structure, logistics and objectives of Day 3 | Dr Pierre Nouvellet & Prof Maria-Gloria Basáñez | 16:30 – 17:00 | 
-|Reception/Drinks/Canapés Dinner/Networking | plenary | 16:30 – 17:00 |
+|Presentation on the structure, logistics and objectives of Day 3 | Dr Pierre Nouvellet & Prof Maria-Gloria Basáñez | 17:00 – 17:30 | 
+|Reception/Drinks/Canapés Dinner/Networking | plenary | 19:00 – 21:00 |
 
 ***
 
@@ -94,11 +98,11 @@ The conclusions of the breakout sessions that will take place in the morning wil
 Breakout sessions
 </h2>
 
-**Plenary 1: 9:00 – 10:00 am**
+**Plenary 1:** 9:00 – 10:00 am
 
 Landscape funding for further Chagas disease work: This will start with a small presentation about possible funding sources (e.g. Wellcome Trust Collaborative Award) followed by an open dialogue among all participants to discuss ideas for funding.
 
-**Breakout sessions: 10:00 am – 2:00 pm (with coffee/tea break and lunch provided)**
+**Breakout sessions:** 10:00 am – 2:00 pm (with coffee/tea break and lunch provided)
 
 The participants will form working groups to discuss, for each specific topic, the following points:
 
@@ -144,11 +148,11 @@ Each breakout group would have a rapporteur who will synthesize the views and co
    Mr Denys Prociuk (Rapporteur)  
    
 
-**Plenary 2: 2:00 – 3:00 pm**
+**Plenary 2:** 2:00 – 3:00 pm
 
 All working groups report in the plenary and present the results of their deliberations
 
-**Plenary 3: 3:00 – 4:30 pm (coffee/tea break provided)**
+**Plenary 3:** 3:00 – 4:30 pm (coffee/tea break provided)
 
 Discussion for Meeting Report:
 	Target journal  
