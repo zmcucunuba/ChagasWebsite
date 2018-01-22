@@ -1,4 +1,4 @@
-## Symposium
+## Chagas Symposium IC-18
 
 <h1 align="center">
   <b>“How can modelling contribute to achieving the goals for Chagas disease in the horizon 2020 and beyond?"</b>
