@@ -19,7 +19,17 @@
 
 **Venue:** Imperial College London, South Kensington Campus
 
-**Organizers:** Imperial College London , Princeton University , Pan-American Health Organization
+**Organisers:** 
+
+|Name       |Organisation|
+|-----------|------------|
+|Prof María Gloria Basañez| Imperial College London, UK
+|Dr Pierre Nouvellet| Sussex University, UK
+|Dr Zulma Cucunubá| Imperial College London, UK
+|Dr Julia Halder| Imperial College London, UK
+|Mr Denys Prociuk| Imperial College London, UK
+|Prof Andy Dobson| Princeton University, USA
+|Dr Luis Gerardo Castellanos| Pan-American Health Organization USA
 
 Chagas disease remains as a major cause of heart disease morbidity and mortality in Latin American countries. In the last three decades, most endemic countries have made great strides towards the control of Chagas disease by implementing mainly vector and blood transfusion control. However, the impact of such interventions has, by and large, not been rigorously quantified, and questions remain as how to address old and new challenges as countries progress towards the goals proposed by the World Health Organization (WHO) in the horizon 2020 and beyond. These goals aim to achieve interruption of intra-domiciliary (vectorial) transmission in all endemic countries and to have all infected/ill patients under care. However, estimates of the current status of intra-domiciliary transmission and burden of disease in endemic countries remain poorly documented, making it difficult to ascertain progress, identify areas that need strengthening, and make programmatic decisions about deploying the most cost-effective interventions.
 
@@ -74,4 +84,23 @@ Potential breakout sessions (according to number of participants attending day 3
 * **Estimation of disease burden**, inclusion of cardiac and digestive sequelae, cost-effectiveness evaluations, is there a role for mathematical modelling to help inform and/or update WHO/PAHO guidelines for Chagas disease?
 
 The conclusions of the breakout sessions that will take place in the morning will be reported in a Plenary to take place after lunch and will serve the basis for a section on identification of gaps and delineation of a research agenda for the Meeting Report paper. It is envisaged that this paper will be multi-authored by the symposium participants and will serve as a platform to establish and strengthen collaborative research.
+
+***
+**Contact information**
+
+For any enquire about the event, please email:
+
+Zulma M. Cucunubá MD, PhD
+
+Post-doctoral Fellow
+
+Department of Infectious Disease Epidemiology
+
+Faculty of Medicine (St Mary's campus) 
+
+Imperial College London 
+
+Norfolk Place, London W2 1PG, UK
+
+zulma.cucunuba@imperial.ac.uk
 
