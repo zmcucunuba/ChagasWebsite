@@ -63,7 +63,7 @@ The meeting will bring together representatives of international organizations, 
 |Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil)
 |Interventions and models in urban settings | Prof Micheal Levy (USA–Peru) 
 |Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil)
-|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Dr Mauricio Vera (Colombia) 
+|Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Mr Mauricio Vera (Colombia) 
 |Experiences from the field III: how field trials can inform key aspects of Chagas disease modelling | Dr Orin Courtenay (Warwick)
 |Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia)
 |Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Jorge Sosa Estani (DNDi)
