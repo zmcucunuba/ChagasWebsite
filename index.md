@@ -28,6 +28,7 @@
 |Dr Zulma Cucunubá| Imperial College London, UK
 |Dr Julia Halder| Imperial College London, UK
 |Mr Denys Prociuk| Imperial College London, UK
+|Miss Kate Bilsborrow| Imperial College London, UK
 |Prof Andy Dobson| Princeton University, USA
 |Dr Luis Gerardo Castellanos| Pan-American Health Organization USA
 
@@ -166,7 +167,7 @@ Closure of meeting and future directions
 
 For any enquire about the event, please email:
 
-Dr Zulma M. Cucunubá
+Dr Zulma M. Cucunubá 
 
 Department of Infectious Disease Epidemiology
 
