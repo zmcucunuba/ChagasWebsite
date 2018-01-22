@@ -6,11 +6,11 @@
 
 
 
-**Currently accepting abstracts for the event**
+**Currently accepting abstracts and participants for the event**
  
-**Deadline: 29th of January 2018.**
+**Apply by 29th of January 2018.**
 
-**Email abstracts to: dp3116@imperial.ac.uk**
+**Email abstract or  participation request to: dp3116@imperial.ac.uk**
 
 ***
 ***
