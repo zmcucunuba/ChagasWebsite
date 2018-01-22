@@ -6,7 +6,7 @@
 
 ![IMG](/img/Chagas.png)
 
-**Currently accepting abstracts and participants for the event**
+**Currently accepting abstracts and participants for the Day 2**
  
 **Apply by 29th of January 2018.**
 
