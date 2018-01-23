@@ -6,13 +6,11 @@
 
 ![IMG](/img/Chagas.png)
 
-**Currently accepting abstracts and participants for Day 2**
+**Currently accepting abstracts and participants for the Day 2**
  
 **Apply by 29th of January 2018.**
-<p>
-	<b>Email abstract or  participation request to:</b>
-<a href="mailto:dp3116@imperial.ac.uk?Subject=Chagas%20Symposium" target="_top"><b>dp3116@imperial.ac.uk</b></a>
-</p>
+
+**Email abstract or  participation request to: dp3116@imperial.ac.uk**
 
 ***
 ***
@@ -75,8 +73,8 @@ The meeting will bring together representatives of international organizations, 
 |Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia) | 14:30 - 14:50 |
 |Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Sergio Sosa Estani (DNDi) | 14:50 - 15:10 |
 |Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London) | 15:10 – 15:30  |
-|Closure Talk: From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London) | 15:30 – 16:00 |
-|Coffee/tea break/networking/posters|  | 16:30 - 17:00 |
+|Coffee/tea break/networking/posters|  | 15:30 - 16:30 |
+|Closure Talk: From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London) | 16:30 – 17:00 |
 |Presentation on the structure, logistics and objectives of Day 3 | Dr Pierre Nouvellet & Prof Maria-Gloria Basáñez | 17:00 – 17:30 | 
 |Reception/Drinks/Canapés Dinner/Networking | plenary | 19:00 – 21:00 |
 
@@ -89,7 +87,7 @@ Workshop and discussion for the preparation of a Meeting Report on “How can Ch
 Potential breakout sessions (according to number of participants attending day 3 and topics chosen). Invitees will be offered the option of signing up for preferred break-out sessions but also given the possibility of contributing to more than one session. The aim of the sessions is to discuss in working (brainstorming) groups and report to a plenary (p.m.) on the question of “Identifying research gaps and highlighting the role of mathematical modelling” in the areas of:
 
 * **Vector ecology, transmission and control** (including domestic and sylvatic vectors) and potential synergies with other interventions (which, where and when)
-* **Diagnostics**, innovative and current assays, measuring seroconversion/seroreversion, impact of and access to interventions, from individual diagnosis to epidemiological surveillance, diagnostics as interventions
+*	**Diagnostics**, innovative and current assays, measuring seroconversion/seroreversion, impact of and access to interventions, from individual diagnosis to epidemiological surveillance, diagnostics as interventions
 * **Treatment and other interventions**, innovative and current tools (including therapies and potential vaccines), role of cure rates/parasitological clearance on transmission/disease progression, potential synergies with other interventions (who, which, where, when), development of clinical trial simulators
 * **Estimation of disease burden**, inclusion of cardiac and digestive sequelae, cost-effectiveness evaluations, is there a role for mathematical modelling to help inform and/or update WHO/PAHO guidelines for Chagas disease?
 
@@ -179,9 +177,9 @@ Dr Zulma M. Cucunubá
 Department of Infectious Disease Epidemiology
 
 Imperial College London  
-<p>
-<a href="mailto:zulma.cucunuba@imperial.ac.uk?Subject=Chagas%20Symposium" target="_top">zulma.cucunuba@imperial.ac.uk</a>
-</p>
+
+zulma.cucunuba@imperial.ac.uk
+
 
 Photo caption: Children attending Chagas sero-prevalence study in Sierra Nevada de Santa Marta, Colombia. Photo kindly shared by Dr Carlos Valencia, Colombia.
 
