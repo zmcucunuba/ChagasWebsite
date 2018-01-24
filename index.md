@@ -58,7 +58,7 @@ The meeting will bring together representatives of international organizations, 
 
 **Date:**  Thursday 15 February
 
-**Venue** 170 Queen’s Gate SW7 5HF 
+**Venue:** 170 Queen’s Gate SW7 5HF 
 
 
 |Topics/Talks          | Confirmed Speakers| Time Slot |
@@ -93,7 +93,7 @@ The meeting will bring together representatives of international organizations, 
 
 **Date:**  Friday 16 February
 
-**Venue** 58 Queen’s Gate SW7 5JW 
+**Venue:** 58 Queen’s Gate SW7 5JW 
 
 
 Workshop and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
