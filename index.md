@@ -70,7 +70,7 @@ The meeting will bring together representatives of international organizations, 
 |Inaugural Talk: The situation of control programmes in endemic countries and an update of the results obtained (La situación de los programas de control en los países endémicos y los resultados por ellos obtenidos)| Dr Luis Gerardo Castellanos (PAHO) | 9:00 – 9:30 |
 |Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)| 9:30 - 9:50 |
 |Epidemiological modelling with particular reference to the triatomine vectors | Dr Sébastien Gourbière (France)| 9:50 - 10:10 |
-|Phylogeography of triatomine vectors | Prof María Dolores Bargues (Spain) | 10:10 - 10:30 |
+|Molecular phylogeography of Chagas disease vectors | Prof María Dolores Bargues (Spain) | 10:10 - 10:30 |
 |Coffee/Tea break/networking/posters |   | 10:30 - 11:30 |
 |Role of sylvatic transmission | Dr Fernando Abad-Franch (Brazil) | 11:30 - 11:50 | 
 |Interventions and models in urban settings | Prof Michael Levy (USA–Peru) | 11:50 - 12:10 |
