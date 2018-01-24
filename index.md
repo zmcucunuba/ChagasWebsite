@@ -6,7 +6,7 @@
 
 ![IMG](/img/Chagas.png)
 
-**Currently accepting abstracts (poster) and participants for Day 2**
+**Currently accepting abstracts (for poster presentations) and participants for Day 2**
 
 **Registration is FREE but spaces are limited**
  
