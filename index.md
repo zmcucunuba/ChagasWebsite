@@ -146,6 +146,7 @@ Each breakout group would have a rapporteur who will synthesize the views and co
    Dr Pierre Nouvellet  
    Dr Elisa Sicuri  
    Dr Zulma M. Cucunubá  
+   Dr Fernando Abad-Franch  
    Mr Denys Prociuk (Rapporteur)  
    
 
