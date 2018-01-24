@@ -59,7 +59,6 @@ The meeting will bring together representatives of international organizations, 
 
 |Topics/Talks          | Confirmed Speakers| Time Slot |
 |----------------------|-------------------|----------|
-|Morning Coffee/Tea|  | 8:00-8:45 |
 |Welcome and Introduction to the Symposium |Prof Maria-Gloria Basáñez & Prof Andy Dobson | 8:45 – 9:00 |
 |Inaugural Talk: The situation of control programmes in endemic countries and an update of the results obtained (La situación de los programas de control en los países endémicos y los resultados por ellos obtenidos)| Dr Luis Gerardo Castellanos (PAHO) | 9:00 – 9:30 |
 |Models for Neglected Tropical Diseases and the NTD Modelling Consortium | Prof Déirdre Hollingsworth (Oxford)| 9:30 - 9:50 |
@@ -78,7 +77,7 @@ The meeting will bring together representatives of international organizations, 
 |Closure Talk: From incidence to disease burden: how models can help to quantify the number of Chagas disease cases in Latin America | Dr Zulma Cucunubá (Imperial College London) | 15:30 – 16:00 |
 |Coffee/tea break/networking/posters|  | 16:30 - 17:00 |
 |Presentation on the structure, logistics and objectives of Day 3 | Dr Pierre Nouvellet & Prof Maria-Gloria Basáñez | 17:00 – 17:30 | 
-|Reception/Drinks/Canapés Dinner/Networking | plenary | 19:00 – 21:00 |
+|Reception/Drinks/Canapés Dinner/Networking | plenary | 18:00 – 20:00 |
 
 ***
 
