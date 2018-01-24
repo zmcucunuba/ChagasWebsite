@@ -7,8 +7,11 @@
 ![IMG](/img/Chagas.png)
 
 **Currently accepting abstracts and participants for Day 2**
+
+**Registration is FREE but spaces are limited**
  
 **Apply by 29th of January 2018.**
+
 <p>
 	<b>Email abstract or  participation request to:</b>
 <a href="mailto:dp3116@imperial.ac.uk?Subject=Chagas%20Symposium" target="_top"><b>dp3116@imperial.ac.uk</b></a>
