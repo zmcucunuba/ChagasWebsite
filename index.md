@@ -42,20 +42,24 @@ Specifically, discussions will be centred around the theme of how can mathematic
 
 The meeting will bring together representatives of international organizations, scientific researchers, programme managers, non-government and non-profit organizations, industry partners, government representatives, and community stakeholders to identify and articulate opportunities for long-term, impactful, and country-relevant collaborative research.
 
-|Time                      | event
-|:------------------------:|:-----------------------------------------------------------------------------
-|**Day 1** (14th February) | Afternoon: Closed meeting PAHO–Imperial College London–Princeton University
-|**Day 2** (15th February) | Invited talks on the epidemiological situation and control status of Chagas disease in Latin America, with the aim of identifying pressing gaps and discussing the role of mathematical modelling in bridging these gaps
-|**Day 3** (16th February) | Workshop (breakout sessions) and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
+
+|Time                      | event                                                                        | venue
+|:------------------------:|:-----------------------------------------------------------------------------|:---------------------
+|**Day 1** (14th February) | Afternoon: Closed meeting PAHO–Imperial College London–Princeton University | 58 Queen’s Gate SW7 5JW
+|**Day 2** (15th February) | Invited talks on the epidemiological situation and control status of Chagas disease in Latin America, with the aim of identifying pressing gaps and discussing the role of mathematical modelling in bridging these gaps |170 Queen’s Gate SW7 5HF  
+|**Day 3** (16th February) | Workshop (breakout sessions) and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond” |170 Queen’s Gate SW7 5HF 
+
 
 
 <h2 align="center">
-  <b>Detailed programme</b>
+  <b> Day 2 (Research Talks) </b>
 </h2>
 
-**Venue**:Imperial College London, South Kensington Campus (58 Prince's Gardens and 170 Queen’s Gate)
 
-**Day 2 (15 February)** – Research Talks
+**Date:**  Thursday 15 February
+
+**Venue** 170 Queen’s Gate SW7 5HF 
+
 
 |Topics/Talks          | Confirmed Speakers| Time Slot |
 |----------------------|-------------------|----------|
@@ -81,7 +85,16 @@ The meeting will bring together representatives of international organizations, 
 
 ***
 
-**Day 3 (16 February)** Workshop (breakout sessions)
+
+<h2 align="center">
+  <b> Day 3: Workshop (breakout sessions)</b>
+</h2>
+
+
+**Date:**  Friday 16 February
+
+**Venue** 58 Queen’s Gate SW7 5JW 
+
 
 Workshop and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
 
@@ -94,10 +107,7 @@ Potential breakout sessions (according to number of participants attending day 3
 
 The conclusions of the breakout sessions that will take place in the morning will be reported in a Plenary to take place after lunch and will serve the basis for a section on identification of gaps and delineation of a research agenda for the Meeting Report paper. It is envisaged that this paper will be multi-authored by the symposium participants and will serve as a platform to establish and strengthen collaborative research.
 
-***
-<h2 align="center">
-Breakout sessions
-</h2>
+
 
 **Plenary 1:** 9:00 – 10:00 am
 
