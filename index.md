@@ -77,7 +77,8 @@ The meeting will bring together representatives of international organizations, 
 |Experiences from the field I: current Chagas disease needs when interruption of intra-domiciliary transmission has been achieved |Dr Renato Vieira Alves (Brazil) | 12:10 - 12:30 |
 |Experiences from the field II: current Chagas disease needs when interruption of intra-domiciliary transmission has not been achieved | Mr Mauricio Vera (Colombia) | 12:30 - 12:50 |
 |Experiences from the field III: how field trials can inform key aspects of Chagas disease modelling | Dr Orin Courtenay (Warwick) | 12:50 - 13:10 |
-| Lunch break/networking/posters|  | 13:10 - 14:30 |
+| Lunch break/networking/posters|  | 13:10 - 14:00 |
+|Force of infection, disease burden an impact of interventions for Dengue at a global level using machine learning methods  |Dr Lorenzo Cattarino (Imperial College) | 14:00 - 14:30 |
 |Meta-analysis of the parasitological and clinical effects of benznidazole and nifurtimox as treatments for Chagas disease |Dr Juan Carlos Villar (Colombia) | 14:30 - 14:50 |
 |Progress on diagnostics and treatments for Chagas disease: from patient needs to population impact | Dr Sergio Sosa Estani (DNDi) | 14:50 - 15:10 |
 |Cost-effectiveness of treatment interventions in non-endemic countries | Dr Elisa Sicuri (Imperial College London) | 15:10 – 15:30  |
