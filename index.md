@@ -50,7 +50,7 @@ The meeting will bring together representatives of international organizations, 
 |:------------------------:|:-----------------------------------------------------------------------------|:---------------------
 |**Day 1** (14th February) | Afternoon: Closed meeting PAHO–Imperial College London–Princeton University | 58 Prince’s Gate SW7 2PG
 |**Day 2** (15th February) | Invited talks on the epidemiological situation and control status of Chagas disease in Latin America, with the aim of identifying pressing gaps and discussing the role of mathematical modelling in bridging these gaps |170 Queen’s Gate SW7 5HF  
-|**Day 3** (16th February) | Workshop (breakout sessions) and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond” |58 Queen’s Gate SW7 5JW 
+|**Day 3** (16th February) | Workshop (breakout sessions) and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond” |58 Prince’s Gate SW7 2PG
 
 
 
@@ -97,7 +97,7 @@ The meeting will bring together representatives of international organizations, 
 
 **Date:**  Friday 16 February
 
-**Venue:** 58 Queen’s Gate SW7 5JW 
+**Venue:** 58 Prince’s Gate SW7 2PG 
 
 
 Workshop and discussion for the preparation of a Meeting Report on “How can Chagas disease modelling best assist endemic countries to reach their control and elimination goals in the horizon 2020 and beyond”
