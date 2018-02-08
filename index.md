@@ -136,7 +136,7 @@ Each breakout group would have a rapporteur who will synthesize the views and co
 **Vector ecology, transmission, control and other interventions:**
 
    Prof María Dolores Bargues  
-   Prof Michael Levy 
+   Prof Michael Levy   
    Dr Fernando Abad-Franch  
    Dr Sébastien Gourbière  
    Dr Orin Courtenay  
