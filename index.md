@@ -10,7 +10,6 @@
 
 **Registration is FREE but spaces are limited**
  
-**Apply by 10th of February 2018.**
 
 <p>
 	<b>Email abstract or  participation request to:</b>
