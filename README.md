@@ -6,6 +6,6 @@ Symposium
 Feb 14th–16th, 2018
 Imperial College London, South Kensington Campus (Prince's Gardens, 58 and 170 Prince’s Gate)
 
-www.chagas.uk
+http://www.chagas.co.uk/
 
 
